@@ -40,3 +40,5 @@
 ## Quellen
 
 * https://de.wikipedia.org/wiki/Scrum
+* https://www.scrum.org/resources/what-is-a-scrum-developer
+* https://www.scrum.org/resources/what-is-a-daily-scrum
