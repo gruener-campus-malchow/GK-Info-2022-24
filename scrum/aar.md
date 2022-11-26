@@ -23,6 +23,9 @@
 * Erarbeiten Sprint Backlog
 	* herunterbrechen in "Tasks"
 
+---
+
+![Scrum Framework](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/screen_shot_2021-01-10_at_9.14.17_am.png)
 
 ---
 
