@@ -2,6 +2,10 @@
 
 ---
 
+![DoD Türsteher](https://agilepainrelief.com/wp-content/uploads/2019/12/APR_Blog-Illustrations_Nov2019_AcceptanceCriteria_A_v2.jpg)
+
+---
+
 ## Definition of Done (DoD)
 
 * Bedingungen unter welchen die Arbeit als fertig angesehen wird
@@ -10,6 +14,10 @@
 * zu Beginn des Projektes festgelegt
 * im Laufe der Entwicklung angepasst
 * ob Eintrag im Backlog als fertig akzeptiert 
+
+---
+
+![Development Team](https://www.weareogx.com/wp-content/uploads/2017/08/meeting.jpg)
 
 ---
 
