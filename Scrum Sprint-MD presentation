@@ -1,0 +1,65 @@
+# "Scrum Sprint"
+#### by Levi Sttzke
+___
+---
+## Was ist ein Sprint?
+
+- ein festgelegter Zeitraum (gleichbleibende Dauer)
+- Mitarbeiter Schließen bestimmte Arbeiten ab 
+- Arbeiten werden zur Überprüfung bereitgestellt
+- Sprint = zentrales Element in Scrum
+- „Heartbeat of Scrum"
+
+---
+## *Vorbereitung auf den Sprint*
+___
+## Sprint planning 
+- Sprint Ziel wird definiert und festgelegt
+- welche Arbeitsschritte werden in das sprint backlog aufgenommen
+- schließlich einigt sich das Scrum Team auf ein Sprint Ziel 
+
+---
+## *Während des Sprints*
+___
+- immer gleichbleibende Dauer (1 Woche- 1 Monat)
+- Developer treffen sich an jedem Arbeitstag zum **Daily Scrum**:
+  - Austausch über mögliche Hindernisse 
+  - Austausch über erledigte Aufgaben
+  - Austausch über bevorstehende Aufgaben zum erreichen des Sprint Zieles 
+
+---
+## **Ende des Sprints**
+
+___
+- Ergebnis des Sprints ist ein Inkrement 
+- mehrere Auslieferungen pro Sprint möglich (mind. 1 verpflichtend)
+- **Review**: 
+  - das Team präsentiert "wichtigen Leuten" die Arbeitsergebnisse
+- **Retrospective**:
+  - Scrum Team reflektiert den letzten Sprint 
+  - Aspekte im nächsten Zeitintervall 
+
+---
+## Sprint cycle:
+___
+
+![Bildbeschreibung] (https://wac-cdn.atlassian.com/dam/jcr:14abbbfb-5870-4c24-8b26-c5a56b25de59/scrum_process_atlassian.svg?cdnVersion=638)
+    
+---
+## Benennung von Sprints
+___
+- variiert je nach Produkten, Product Ownern, Entwicklern oder Organisationen 
+- üblicherweise werden sie aber mit Nummern versehen 
+- letztendlich ist es egal, wie man Sprints benennt, solange die Namen zum vereinbarten Ziel passen
+
+---
+___
+# Ein neuer Sprint beginnt unmittelbar nach Abschluss des vorherigen
+___
+
+---
+
+# **Quellen:**
+https://t2informatik.de/wissen-kompakt/scrum-sprint/
+https://scrumguide.de/scrum-sprint/
+https://www.atlassian.com/de/agile/scrum/sprints
