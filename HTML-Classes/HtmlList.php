@@ -22,5 +22,5 @@ class HtmlList extends ElementWithContent {
 	public function shuffle() {return shuffle($this->contents);}
 	public function sortasc() {return sort($this->content);}
 	public function sortdesc() {return rsort($this->content);}
-	public function rendercsv($seperator) {return implode(',', $this->content);}
+	public function rendercsv($seperator) {return implode($seperator, $this->content);}
 }
