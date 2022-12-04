@@ -10,7 +10,7 @@ class HtmlList extends ElementWithContent {
 	public function render() {
 		$this->tagname = $this->isOrdered ? 'ol' : 'ul';
 		$out = ElementwithAttribute::render();
-		foreach ( $this->content as $element ) {
+		foreach ($this->content as $element) {
 			$out .= '<li>';
 			$out .= $element->render();
 			$out .= '</li>';
